@@ -1,0 +1,19 @@
+body {
+    background-color: grey;
+    text-align: center;
+    font-style: normal;
+    margin-top: 50px;
+}
+.titulo {
+    color: white;
+}
+.rojo {
+    color: red;
+    font-size: 30px;
+    margin-bottom: 0px;
+}
+.azul {
+    color: blue;
+    font-size: 30px;
+    margin-top: 0px;
+}
